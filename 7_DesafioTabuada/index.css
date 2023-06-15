@@ -1,0 +1,42 @@
+
+body{
+    background-image: url(../7_DesafioTabuada/imagens/fundo.svg);
+    color:rgb(239, 235, 228);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header{
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 33vw; 
+    color: rgb(239, 235,228);
+
+}
+
+section{
+    background-color: rgb(239, 235, 228);
+    color:black;
+    padding: 15px;
+    border-radius:20px;
+    width: 50%;
+    margin: auto;
+    
+}    
+
+#botao{
+    background-color: rgb(12, 112,242);
+    color: rgb(239, 235, 228);
+    border: 0px;
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+}
+.Form{
+    margin: 8px;
+    border-radius: 10px;
+    border: 0px;
+    height: 20px;
+    width: 200px;
+    
+}
